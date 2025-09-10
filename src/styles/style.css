@@ -505,6 +505,10 @@ footer .content {
     right: 0;
   }
 
+  .bias-title-img img {
+    width: 100%;
+  }
+
   #preview-image img {
     width: 100%;
   }
@@ -539,10 +543,6 @@ footer .content {
 
   .bias-title-img {
     flex-direction: column;
-  }
-
-  .bias-title-img img {
-    width: 100%;
   }
 
   .bias-article {
