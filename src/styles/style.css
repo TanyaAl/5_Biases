@@ -286,8 +286,7 @@ section img {
 
 .bias-title-img {
   display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
+  flex-flow: row wrap;
   gap: 30px;
 }
 
@@ -571,11 +570,11 @@ footer .content {
   }
 
   .footer-title {
-      width: 100%;
+    width: 100%;
   }
 
   .footer-form {
-      width: 100%;
+    width: 100%;
   }
 
   .footer-text {
