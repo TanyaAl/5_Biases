@@ -1,5 +1,6 @@
 {
     "liveServer.settings.proxy": {
-        "baseUri": "/src"
-    }
+        "baseUri": "src"
+    },
+    "liveServer.settings.root": "src",
 }
