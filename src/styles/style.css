@@ -505,6 +505,10 @@ footer .content {
     right: 0;
   }
 
+  #preview-image img {
+    width: 100%;
+  }
+
   #navigation {
     padding-top: 100px;
     padding-bottom: 50px;
@@ -517,6 +521,7 @@ footer .content {
   .column-flex {
     flex-direction: column;
     margin-top: 0;
+    gap: 0;
   }
 
   .navigation-card-title h2 {
